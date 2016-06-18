@@ -1,5 +1,5 @@
 var https = require('https');
-// 配列をシャッフする
+// 配列をシャッフルする
 function shuffle(array) {
   var n = array.length, t, i;
 
